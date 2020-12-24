@@ -158,7 +158,7 @@ Ket: Online 24 Jam
 ---
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi A062BOT(https://saweria.co/andhikamp)
+* [`Donasi A062BOT ] (https://saweria.co/andhikamp)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
