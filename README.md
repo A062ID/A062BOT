@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/temp/A187.jpg" width="230" height="230"/>
+</p>
 <p align="center">
 <p align="center">
 <a href="#"><img title="A062BOT" src="https://img.shields.io/badge/A062BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
