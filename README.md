@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/temp/A062.jpg" width="230" height="230"/>
+<img src="https://www.google.com/amp/s/id.pinterest.com/amp/pin/824862487982746103/>
 </p>
 <p align="center">
 <p align="center">
