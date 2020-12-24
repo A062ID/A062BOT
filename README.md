@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/temp/A062ID.jpg" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/temp/A062.jpg" width="230" height="230"/>
 </p>
 <p align="center">
 <p align="center">
