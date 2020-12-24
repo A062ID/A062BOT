@@ -1,4 +1,4 @@
-<img src="<img src="https://raw.githubusercontent.com/A062ID/A062BOT/master/media/img/Rimuru.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
 </p>
 <p align="center">
 <p align="center">
