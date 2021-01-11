@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/andhika/A062.jpg" width="230" height="230"/>
 </p>
 <p align="center">
 <p align="center">
