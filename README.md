@@ -1,3 +1,5 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi I'am Andhika ID
+<p align="center">
 <img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/andhika/A062.jpg" width="250" height="250"/>
 </p>
 <p align="center">
