@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/andhika/A062.jpg" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/andhika/A062.jpg" width="250" height="250"/>
 </p>
 <p align="center">
 <p align="center">
